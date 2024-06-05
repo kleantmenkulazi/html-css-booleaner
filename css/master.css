@@ -1,0 +1,33 @@
+/* 
+    Generale
+    
+
+*/
+.colore-grigio{
+    color: gray;
+}
+.colore-azzurro{
+    color: rgb(5, 122, 161);
+}
+.sfondo-azzurro{
+    background-color: rgb(111, 216, 216);
+}
+.sfondo-azzurro-chiaro {
+    background-color: aquamarine;
+
+}
+/* 
+    Header
+*/
+#logo  {
+    height: 30px;
+}
+header { 
+    background-color: aqua;
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    background-repeat: repeat;
+}
+/* 
+    Main
+*/
